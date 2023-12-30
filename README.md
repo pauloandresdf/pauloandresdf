@@ -21,4 +21,11 @@
   <img align="center" alt="Paulo-CoffeGreen" height="100%" src="greencoffe.gif">
 </div>
 
+<div align="center">
+  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=pauloandresdf&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF00&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Leonardo Alaff" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloandresdf&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+</div> 
 
+
+  
