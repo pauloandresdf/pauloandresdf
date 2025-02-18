@@ -71,8 +71,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pauloandresdf.visitor-badge&left_color=black&right_color=red">
 </div>
 
-
+<!--
 <div align="center">
 <img align="center" height="500px" href="https://i.gifer.com/g32K.gif
 " width="800px"  style="max-width: 100%; height: auto;></img>
 </div>
+-->
