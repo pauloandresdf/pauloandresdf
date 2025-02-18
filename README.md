@@ -2,7 +2,7 @@
 <a href="https://github.com/pauloandresdf?tab=repositories"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=Ff0000&center=true&vCenter=true&width=500&height=30&lines=Opa,+eu%20sou+Paulo+Andre+iai?%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-[<img align="left" alt="Chill gif" src="https://i.gifer.com/3IsP.gif" width="320" height="190" />](https://github.com/pauloandresdf?tab=repositories)
+[<img align="left" alt="Chill gif" src="https://i.gifer.com/3IsP.gif" width="190" height="190" />](https://github.com/pauloandresdf?tab=repositories)
 
 ### What do you live for? I am a junior developer, graduated in technology, analysis and systems development. .
 
@@ -10,6 +10,7 @@
 
 🔭 Estou em busca da minha primeira oportunidade de emprego na área.
 
+<div>
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   
@@ -22,6 +23,7 @@
   - 💡Tenho grande interesse em expandir meus conhecimentos para o front-end com o objetivo de me tornar um desenvolvedor Full Stack.
 
 </details>
+</div>
 
 ##
 
