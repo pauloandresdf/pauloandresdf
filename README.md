@@ -2,9 +2,9 @@
 <a href="https://github.com/pauloandresdf?tab=repositories"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=Ff0000&center=true&vCenter=true&width=500&height=30&lines=Opa,+eu%20sou+Paulo+Andre+iai?%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-[<img align="left" alt="Chill gif" src="https://i.gifer.com/3IsP.gif" width="400px" height="190px" />](https://github.com/pauloandresdf?tab=repositories)
+[<img align="left" alt="Chill gif" src="https://i.gifer.com/3IsP.gif" width="360" height="190" />](https://github.com/pauloandresdf?tab=repositories)
 
-### What do you live for? I am a junior developer, graduated in technology, analysis and systems development. 
+### What do you live for? I am a junior developer, graduated in technology, analysis and systems development. .
 
 👨‍🎓 Tenho 19 anos estou no inicio da minha carreira.
 
@@ -32,8 +32,8 @@
   <img align="center" alt="Paulo-JS" height="60" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />       
   <img align="center" alt="Paulo-NodeJs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" alt="Paulo-MySql" height="80" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" alt="Paulo-Mongodb" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Paulo-Postg" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+   <img align="center" alt="Paulo-Mongodb" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Paulo-docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
   <img align="center" alt="Paulo-AWS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
   
@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-<img align="center" height="180em" href="https://github.com/pauloandresdf/github-readme-stats" src="https://github-readme-activity-graph.vercel.app/graph?username=pauloandresdf&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&line=F12A37&point=91040D&color=E1E1E1">
+<img align="center" height="280em" href="https://github.com/pauloandresdf/github-readme-stats" src="https://github-readme-activity-graph.vercel.app/graph?username=pauloandresdf&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&line=F12A37&point=91040D&color=E1E1E1">
 </img>
 </div>
 
@@ -71,9 +71,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pauloandresdf.visitor-badge&left_color=black&right_color=red">
 </div>
 
-<!--
-<div align="center">
-<img align="center" height="500px" href="https://i.gifer.com/g32K.gif
+
+<!--<div align="center">
+<img align="center" height="500px" src="https://i.gifer.com/g32K.gif
 " width="800px"  style="max-width: 100%; height: auto;></img>
-</div>
--->
+</div> -->
