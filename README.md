@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-<img align="center" height="280em" href="https://github.com/pauloandresdf/github-readme-stats" src="https://github-readme-activity-graph.vercel.app/graph?username=pauloandresdf&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&line=F12A37&point=91040D&color=E1E1E1">
+<img align="center" height="180em" href="https://github.com/pauloandresdf/github-readme-stats" src="https://github-readme-activity-graph.vercel.app/graph?username=pauloandresdf&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&line=F12A37&point=91040D&color=E1E1E1">
 </img>
 </div>
 
