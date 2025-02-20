@@ -67,10 +67,12 @@
 </img>
 </div>
 
-<!--
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pauloandresdf.visitor-badge&left_color=black&right_color=red">
 </div>
+
+<!--
 <div align="center">
 <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pauloandresdf?color=black&style=for-the-badge&labelColor=black&logo=star&label=estrelas"/>
 </div> 
