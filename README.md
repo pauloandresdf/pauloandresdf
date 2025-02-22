@@ -13,9 +13,9 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   
-  - 💬 Desde o inicio da minha graduação, venho me desenvolvendo como dev autodidata.
+  - 💬 Desde o inicio da minha graduação, venho me desenvolvendo como dev autodidata, semprei gostei de tecnologia e a proporção que ela pode mudar vidas.
     
-  - 📚Me especializando atualmente em Java, Spring Framework e AWS.
+  - 📚Me especializando atualmente em Java, Spring Framework e AWS em busca da Cloud Praticioner.
 
   - 🔰Sou formado em CFOR de Engenharia, Aspirante-a-oficial R/2 do Exército Brasileiro, tenho habilidades únicas, como adaptação a mudanças e comprometimento com objetivos e metas a qualquer custo, resolvendo qualquer tipo de problemas, diferenciais que aplico em todos os setores da vida.
 
