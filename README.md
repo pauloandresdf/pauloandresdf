@@ -19,7 +19,7 @@
 
   - 🔰Sou formado em CFOR de Engenharia, Aspirante-a-oficial R/2 do Exército Brasileiro, tenho habilidades únicas, como adaptação a mudanças e comprometimento com objetivos e metas a qualquer custo, adquiridos em terreno, diferenciais que aplico em todos os setores da vida.
 
-  - 💡Tenho grande interesse em expandir meus conhecimentos para o front-end com o objetivo de me tornar um desenvolvedor Full Stack.
+  - 💡Tenho grande interesse em expandir meus conhecimentos para o front-end com o objetivo de me tornar um desenvolvedor Full-Stack.
 
 </details>
 
