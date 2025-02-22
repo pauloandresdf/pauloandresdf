@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/pauloandresdf?tab=repositories"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=Ff0000&center=true&vCenter=true&width=500&height=30&lines=Opa,+eu%20sou+Paulo++Dev+Back-End+iai?%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://github.com/pauloandresdf?tab=repositories"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=Ff0000&center=true&vCenter=true&width=500&height=30&lines=Opa,+eu%20sou+Paulo+um+Dev+Back-End+iai?%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
 [<img align="left" alt="Chill gif" src="https://i.gifer.com/3IsP.gif" width="360" height="190" />](https://github.com/pauloandresdf?tab=repositories)
