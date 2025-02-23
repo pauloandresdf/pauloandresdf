@@ -6,7 +6,7 @@
 
 ### What do you live for? I am a junior developer, graduated in technology, analysis and systems development. .
 
-👨‍🎓 Tenho 19 anos estou no inicio da minha carreira.
+👨‍🎓 Tenho 19 anos estou no inicio da minha carreira!
 
 🔭 Estou em busca da minha primeira oportunidade de emprego na área.
 
