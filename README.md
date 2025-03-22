@@ -11,7 +11,7 @@
 🔭 Estou em buscando emprego na área.
 
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>👨‍💻 Clique por aqui:</summary>
   
   - 💬 Desde o inicio da minha graduação, venho me desenvolvendo como dev autodidata, semprei gostei de tecnologia e a proporção que ela pode mudar vidas.
     
