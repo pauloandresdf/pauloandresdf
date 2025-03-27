@@ -8,7 +8,7 @@
 
 👨‍🎓 Tenho 19 anos estou no inicio da minha carreira!
 
-🔭 Estou em buscando emprego na área.
+🔭 Buscando sempre ser melhor que ontem.
 
 <details>
   <summary>👨‍💻 Clique por aqui:</summary>
