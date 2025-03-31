@@ -4,7 +4,7 @@
 
 [<img align="left" alt="Chill gif" src="https://i.gifer.com/3IsP.gif" width="180" height="180" />](https://github.com/pauloandresdf?tab=repositories)
 
-### What do you live for? I am a junior developer, graduated in technology, analysis and systems development. .
+### What do you live for?? I am a junior developer, graduated in technology, analysis and systems development. .
 
 👨‍🎓 Tenho 20 anos estou no inicio da minha carreira!
 
