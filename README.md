@@ -42,7 +42,6 @@
    
 </div>
   
-  ##
  
 <div align="center"> 
   <a href="https://www.reddit.com/user/pauloandredev"target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
