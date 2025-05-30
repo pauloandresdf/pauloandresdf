@@ -8,7 +8,7 @@
 
 👨‍🎓 Tenho 20 anos estou no inicio da minha carreira!
 
-🔭 Buscando sempre ser a melhor versão.
+🔭 Curioso, confiante, conversador.
 
 <details>
   <summary>👨‍💻 Clique por aqui:</summary>
