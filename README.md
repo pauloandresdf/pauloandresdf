@@ -4,23 +4,7 @@
 
 [<img align="left" alt="Chill gif" src="https://i.gifer.com/3IsP.gif" width="180" height="180" />](https://github.com/pauloandresdf?tab=repositories)
 
-### What do you live for?? I am a junior developer, graduated in technology, analysis and systems development. .
-
-👨‍🎓 Tenho 20 anos estou no inicio da minha carreira!
-
-🔭 Curioso, confiante, conversador.
-
-<details>
-  <summary>👨‍💻 Clique por aqui:</summary>
-  
-  - 💬 Desde o inicio da minha graduação, venho me desenvolvendo como dev autodidata, semprei gostei de tecnologia e a proporção que ela pode mudar vidas.
-    
-  - 📚Me especializando atualmente em Java, Spring Framework e AWS em busca da Cloud Praticioner.
-
-  - 🔰Sou formado em CFOR de Engenharia, Aspirante-a-oficial R/2 do Exército Brasileiro, tenho habilidades únicas, como adaptação a mudanças e comprometimento com objetivos e metas a qualquer custo, resolvendo qualquer tipo de problemas, diferenciais que aplico em todos os setores da vida.
-    
-</details>
-
+### 
 ##
 
 <div align="center" style="display: inline_block"><br>
