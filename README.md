@@ -4,8 +4,6 @@
 
 [<img align="left" alt="Chill gif" src="https://i.gifer.com/3IsP.gif" width="180" height="180" />](https://github.com/pauloandresdf?tab=repositories)
 
-### 
-##
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Paulo-Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
